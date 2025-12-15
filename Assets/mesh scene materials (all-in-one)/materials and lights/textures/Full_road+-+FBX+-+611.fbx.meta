@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 9b8fbf788e2ab6f488db69df632ed78f
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 01a0c119-05e0-49cf-88bc-aa9b5e3684a9
+    second: {fileID: 2800000, guid: a378fb472fb82724e9f89946a4670e50, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 0944c526-777a-425b-bc64-e1932468af7d
+    second: {fileID: 2800000, guid: 3e080610446785a46a4ad0f070f9bd43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 09e328f1-6a5f-4db7-bc11-adae5759cf61
+    second: {fileID: 2800000, guid: a4949220f7bea9049bb8827c1cb4bd35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 10778fe8-1c78-460e-9d6a-bc5d99a8ccdd
+    second: {fileID: 2800000, guid: a5eb19d65b5c26d46b592150ecbfe5b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1aefb629-59bd-4449-b797-66e6874c1f8a
+    second: {fileID: 2800000, guid: e8add5d4ed942a14f8a0eb6c270f07cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2547d60d-8946-4fe8-ba1f-2a3fe99f416c
+    second: {fileID: 2800000, guid: 703613a1ab12d37438ffd6909046ad31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 39ea6e53-afe9-4995-9236-7ff9aa5be751
+    second: {fileID: 2800000, guid: 01470e919229b3a40bbdc8124673cacc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3d7c4ea7-9d16-47f7-8e36-ae86fce609d1
+    second: {fileID: 2800000, guid: a92e34cc57bca1f4f9e76ecc8f076eb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 41398e2c-004e-4393-94ae-29e67c8ed09f
+    second: {fileID: 2800000, guid: 154e199f8d6e3ce41b9ea866cfb92802, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 53e30d48-7cdb-4cb0-a241-99d99202e2df
+    second: {fileID: 2800000, guid: b386dca9982a7aa4bb9fe3fda5cfe777, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 5dd6aa34-743b-46df-938d-5613fbed6721
+    second: {fileID: 2800000, guid: bf21057c7a7ac494b98af5d0bb00f306, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 5ecf7348-110e-4c12-941a-c7c7c9224a83
+    second: {fileID: 2800000, guid: f0e63e52a33db3b40a80d3571d362faf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6726bfe9-d5cd-4099-b27e-3e6715163050
+    second: {fileID: 2800000, guid: b6cfea0bbfafed641a947aab41c516cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 7084fe91-2359-4d10-a3e7-e82735ecdce6
+    second: {fileID: 2800000, guid: 6372670576ebcd043a4efde2fd7a1817, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 83bfccd8-92db-44b7-bf7b-287e71b7dd0e
+    second: {fileID: 2800000, guid: 354276e6f25ceae44943c4901fa46187, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 8d999dea-af3e-43e6-96ff-4fb32a308a3d
+    second: {fileID: 2800000, guid: 7c073467999a1ba47a2b371db46a5862, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ac45300b-bde8-4885-b9b6-01643ef114ab
+    second: {fileID: 2800000, guid: 6905d92b219299940b441dbce1a4d047, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cbe9680a-1dc2-449d-ac6d-6559cab5b1b8
+    second: {fileID: 2800000, guid: a0d88dcbd0852684988d5323553ef9a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: eb147581-fda1-4b9f-871e-61f61cba6aa9
+    second: {fileID: 2800000, guid: 274e9e1deb0911b46b31fbb96370d0a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f175c057-e507-4deb-bfb3-c9ba86ca9e11
+    second: {fileID: 2800000, guid: 3b199f7a4fa7a2343883d78ab9372b80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f18f2887-743f-4cf8-8080-91824b8064bb
+    second: {fileID: 2800000, guid: a346917869ac67b4e993cf48d65ae788, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f18f2887-743f-4cf8-8080-91824b8064bb_1
+    second: {fileID: 2800000, guid: 59f980fcc236b824cb19316a7cd94ed2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fc052588-86d9-49e7-976b-7522cc748c3f
+    second: {fileID: 2800000, guid: 2d912acb929aa3b4eb97a027ba06ce05, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kia_ev9_gtline_24_texture_13
+    second: {fileID: 2800000, guid: 463fba82971072e46ad01db27e43c19a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kia_ev9_gtline_24_texture_13_1
+    second: {fileID: 2800000, guid: 715560fa8fb75f4479be3cad466a7c5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kia_ev9_gtline_24_texture_17
+    second: {fileID: 2800000, guid: 1df7fbc07d48f1948b99e9c31e6611bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kia_ev9_gtline_24_texture_18
+    second: {fileID: 2800000, guid: 0c39ca6c0873ad247abc7b75c1789219, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kia_ev9_gtline_24_texture_2
+    second: {fileID: 2800000, guid: 89c5dc57b00861a43ac024b5cd1f3daf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kia_ev9_gtline_24_texture_2_1
+    second: {fileID: 2800000, guid: c522ebb5def22b145a159ecb57637ffa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kia_ev9_gtline_24_texture_3
+    second: {fileID: 2800000, guid: e8c601df626ede44783e31a90f9ec25c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kia_ev9_gtline_24_texture_45
+    second: {fileID: 2800000, guid: c1541892863dfe9488db3c39c5c95fb3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kia_ev9_gtline_24_texture_47
+    second: {fileID: 2800000, guid: 34886b5c14dcc904abd9b85af919d8e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kia_ev9_gtline_24_texture_48
+    second: {fileID: 2800000, guid: 9c8022ac57761d04787eb0f4116de06f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kia_ev9_gtline_24_texture_51
+    second: {fileID: 2800000, guid: 533a6cc5eb4dc1646b9af1cf29e6f641, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kia_ev9_gtline_24_texture_9
+    second: {fileID: 2800000, guid: c3b69d127557e7a42a4a132798edf169, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
