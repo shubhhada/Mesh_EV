@@ -97,3 +97,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+/Assets/miscelleneous/microwave-beeps-101846.mp3
+/Assets/miscelleneous/microwave-beeps-101846.mp3.meta
+/Assets/miscelleneous/VR interview template.unity
