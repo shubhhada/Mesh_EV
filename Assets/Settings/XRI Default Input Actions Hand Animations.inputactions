@@ -119,7 +119,7 @@
                     "name": "Index Finger In",
                     "type": "Button",
                     "id": "3f342c64-a531-4d52-83d4-ba4ae603e0b9",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
@@ -2266,6 +2266,24 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
+                },
+                {
+                    "name": "A_button",
+                    "type": "Button",
+                    "id": "9dcbad0b-2e2a-4d1c-9831-5ec3b0982ca6",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "B_button",
+                    "type": "Button",
+                    "id": "ca1f71d2-021b-4cbb-baa3-8daa601e4e95",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -2552,6 +2570,28 @@
                     "processors": "ScaleVector2(x=0),StickDeadzone",
                     "groups": "",
                     "action": "Translate Manipulation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9ef10ed8-beb0-46e1-a63c-1c7654a3da2e",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "A_button",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d025b76b-83bf-4356-b64c-96e7cd786ea3",
+                    "path": "<XRController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "B_button",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
